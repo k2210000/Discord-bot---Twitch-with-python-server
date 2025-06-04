@@ -58,6 +58,8 @@ mention的ID可點擊discord左下角頭像 →「複製使用者 ID」
 
 ![Image](https://github.com/user-attachments/assets/bcac97ff-0719-4acc-860f-b88fc3879ad6)
 
+```Discord webhook```將在此詢問要不要輸入，第一次使用請務必輸入，第二位之後直接按Enter將以預設webhook執行新增，如果需更換可以再輸入其他webhook
+
 5.在 ```.env_bot``` 設定檔中設置discord token (如不使用/slash指令可跳過)
 
 首先你需要取得一個discord bot token
