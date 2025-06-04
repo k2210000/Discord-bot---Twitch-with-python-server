@@ -1,0 +1,9 @@
+{
+  "twitch": {
+    "client_id": "",
+    "client_secret": ""
+  },
+    "mention_user_id": "",
+  "targets": [
+  ]
+}
