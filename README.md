@@ -11,6 +11,8 @@
 
 ![Image](https://github.com/user-attachments/assets/d276bb48-663b-47dc-8135-eda6d25d4e5f)
 
+![Image](https://github.com/user-attachments/assets/9464f675-538f-4acf-b6a6-226c5d8e2f81)
+
 - ✅ 自動查詢多位 Twitch 實況主的開台與關台
 - 📢 自動將開台訊息推送至 Discord webhook 頻道
 - 🔁 持續更新觀眾數、遊戲分類與標題（每分鐘抓取一次）
